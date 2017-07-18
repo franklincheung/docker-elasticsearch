@@ -22,3 +22,4 @@ http:
     enabled: true
 
 discovery.zen.ping.multicast.enabled: ${MULTICAST}
+script.groovy.sandbox.enabled: true
